@@ -9,10 +9,10 @@
 ## Few-shot Image Classification for Breast Cancer Detection
 
 - **Background:** Breast cancer is a pressing concern worldwide, ranking as the second leading cause of cancer death in women. Early detection and identification of breast cancer can lead to timely treatment, effectively reducing the risk of further deterioration or death <a href="https://acsjournals.onlinelibrary.wiley.com/doi/full/10.3322/caac.21731">[Miller et al. 2022]</a>.
-- **Dataset:** <a href="https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset">Breast Ultrasound Images Dataset</a>
+- **Dataset:** <a href="https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset">Breast Ultrasound Images Dataset</a>.
 - **Methods:** 
-  - Traditional machine learning models: (By <a href="https://github.com/xw-zeng">Xiaowei Zeng</a>, Pengyu Chen and <a href="https://github.com/Edward-Jing">Jingzhi Sun</a>)
-    - Parametric supervised learning: Naive Bayes, Logistic Regression. 
+  - Traditional machine learning models: (By <a href="https://github.com/xw-zeng">Xiaowei Zeng</a>, <a href="https://github.com/cpyyy0515">Pengyu Chen</a> and <a href="https://github.com/Edward-Jing">Jingzhi Sun</a>)
+    - Parametric supervised learning: Naive Bayes, Logistic Regression (classical & two-stage version). 
     - Non-parametric supervised learning: Support Vector Machine (SVM).
     - Ensembling methods: Decision Tree, Random Forest.
   - Cutting-edge deep learning models: (By <a href="https://github.com/qrdai/23sp-AI-few-shot-learning-project">Qirun Dai</a>)
